@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Ladola</h1>
-<h3 align="center">PGDM in AI & Data Science | Full Stack Developer</h3>
+<h3 align="center">PGDM in AI & Data Science </h3>
 
 ---
 

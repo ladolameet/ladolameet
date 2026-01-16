@@ -1,10 +1,6 @@
 <h1 align="center" style="font-size: 42px;">👋 Meet Ladola</h1>
 
-<h2 align="center">PGDM in AI & Data Science | Full-Stack Developer</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Building+Intelligent+Web+Systems" />
-</p>
+<h2 align="center">PGDM in AI & Data Science</h2>
 
 ---
 
@@ -37,19 +33,13 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🌐 Connect
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/meet-ladola-5b2713292">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ladolameet">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github"/>
 </a>
 </p>

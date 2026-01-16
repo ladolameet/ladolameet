@@ -1,18 +1,16 @@
 <h1 align="center">Meet Ladola</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=PGDM+in+AI+%26+Data+Science;AI+Engineer+%7C+Machine+Learning+Practitioner;Full-Stack+Developer;Turning+Data+into+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=PGDM+in+AI+%26+Data+Science;AI+Engineer+%7C+Machine+Learning+Practitioner;Turning+Data+into+Intelligent+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat" />
-</p>
+
 
 ---
 
 ## 👨‍💻 About Me
 I am a **PGDM graduate in Artificial Intelligence & Data Science** with a strong foundation in  
-**Machine Learning, Data Analytics, and Full-Stack Development**.
+**Machine Learning, Data Analytics.
 
 I enjoy building **intelligent, scalable, real-world systems** that combine data, AI, and modern web technologies.
 
@@ -66,24 +64,6 @@ I enjoy building **intelligent, scalable, real-world systems** that combine data
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">

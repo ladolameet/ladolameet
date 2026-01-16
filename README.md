@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Meet Ladola</h1>
+<h3 align="center">PGDM in AI & Data Science | Full Stack Developer</h3>
 
-<!--
-**ladolameet/ladolameet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 **PGDM in Artificial Intelligence & Data Science**
+- 🤖 Passionate about **AI, Machine Learning & Data Analytics**
+- 💻 Experience with **Web Applications, Chatbots & Data-Driven Systems**
+- 🌱 Currently exploring **Advanced ML Models & Scalable Backend APIs**
+- 📫 Reach me at: **meet66286@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages & Tools:**
+- 💻 Python, PHP
+- 🌐 HTML, CSS, Bootstrap
+- 🧠 Artificial Intelligence, Machine Learning, Data Science
+- 🗄️ MySQL
+- ⚙️ GitHub, FastAPI
+
+---
+
+### 🚀 Projects
+- 🤖 **Bhagavad Gita Chatbot** – AI-powered conversational system  
+- 🧹 **Data Cleaning Agent** – Automated dataset preprocessing tool  
+- 💼 **CampusHire Portal** – Recruitment & job management platform  
+- 🌐 **Personal Portfolio Website**
+
+---
+
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/meet-ladola-5b2713292" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/ladolameet" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star!**
